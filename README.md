@@ -2,7 +2,7 @@
 
 ## A clumination of one year worth of work learning Three.js and Blender along the way
 
-[Live demo]()
+[Live demo](https://paarth-sharma.vercel.app/)
 
 ![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
 
